@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render Search component 1`] = `
+<div
+  className="container-card-job"
+>
+  <h2
+    className="container-card-job__title"
+  >
+    Jobss
+  </h2>
+  <div
+    className="container-card-job__item"
+  >
+    <span>
+      Ubicación:
+    </span>
+     
+    Lima, Perú
+  </div>
+  <div
+    className="container-card-job__item"
+  >
+    <span>
+      Empresa:
+    </span>
+     
+    Jobs
+  </div>
+  <div
+    className="container-card-job__item"
+  >
+    <span>
+      Modalidad:
+    </span>
+     
+    Full-Time
+  </div>
+  <div
+    className="container-card-job__item"
+  >
+    <span>
+      Publicado:
+    </span>
+     
+    5 meses
+  </div>
+  <div
+    className="container-card-job__item"
+  >
+    <span>
+      Países:
+    </span>
+     
+    Perú
+  </div>
+  <p
+    className="container-card-job__description"
+  >
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+  </p>
+  <a
+    className="container-card-job__apply"
+    href="https://github.com/JOsktgui/jobs"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    APLICAR
+  </a>
+</div>
+`;
